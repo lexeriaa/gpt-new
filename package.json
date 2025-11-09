@@ -1,0 +1,10 @@
+﻿{
+  "name": "gpt-new",
+  "version": "0.1.0",
+  "description": "CLI placeholder",
+  "bin": {
+    "gpt-new": "bin/cli.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}
